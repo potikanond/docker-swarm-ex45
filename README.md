@@ -1,5 +1,5 @@
 # Example 4.5: Create A Multi-Service Multi-Node Web App
-This assignment is from Bret Fisher's course on udemy. 
+This example is from Bret Fisher's course on udemy. 
 https://www.udemy.com/docker-mastery/learn/v4/overview
 
 ## Goal: create networks, volumes, and services for a web-based "cats vs. dogs" voting app.
